@@ -1,4 +1,4 @@
-# Drum Machine
+# Pomodoro Clock
 
 **React v16.13.1** & **Redux v4.0.5** time management application that applies Pomodoro Technique. The method uses a timer to break down work into intervals, separated by short breaks. <br /><br />
 Main purpose of this project is to meet the following user stories related [**freeCodeCamp**](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock) challenge.
